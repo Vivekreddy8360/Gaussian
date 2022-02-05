@@ -48,7 +48,7 @@ for i in range(n):
     ```
 
 ## Output:
-![github](02.png)
+![githublogo](02.png)
 
 
 ## Result:
