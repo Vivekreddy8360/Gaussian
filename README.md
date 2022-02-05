@@ -46,7 +46,7 @@ for i in range(n):
   ~~~
 
 ## Output:
-![githublogo](LU2.png)
+![githublogo](ge.png)
 
 
 ## Result:
