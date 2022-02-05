@@ -46,7 +46,7 @@ for i in range(n):
     ```
 
 ## Output:
- ![Alt Text]("C:\Users\popur\OneDrive\Documents\ge.png")
+ ![github](ge.png)
 
 
 ## Result:
